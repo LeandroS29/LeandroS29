@@ -36,4 +36,4 @@
 
 #### How to talk with me:
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/leandro-santos-a1b6b428b/)
-[<img alt="" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:leandros29.personal@gmail.com)
+[<img alt="" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black"/>](mailto:leandros29.personal@gmail.com)
